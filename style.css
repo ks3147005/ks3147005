@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color: #283149;
+
+}
+h1{
+    color: #DBEDF3;
+    font-size: 5rem;
+    font-family: "arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+.buttons{
+    margin: 10% auto;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.drum{
+        border: 10px solid #404b69;
+        font-size: 5rem;
+        font-family: 'arvo',cursive;
+        line-height: 2;
+        border-radius: 15px;
+        font-weight: 900;
+        height: 150px;
+        width: 150px;
+        display: inline-block;
+        text-align: center;
+        margin: 10px;
+        outline: none;
+        text-shadow: 3px 0 #dbedf3;
+        color: #da0463;
+    }
+.w{
+    background-image: url("images/w1.jpg");
+}
+
+.a{
+    background-image: url("images/a.jpg");
+}
+
+.s{
+ background-image: url("images/s.jpg");
+}
+
+.d{
+    background-image: url("images/d.jpg");
+
+}
+
+.j{
+    background-image: url("images/j.jpg");
+}
+
+.k{
+    background-image: url("images/k.jpg");
+}
+
+.l{
+    background-image: url("images/l.jpg");
+}
+footer{
+    margin: auto;
+}
